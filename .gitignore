@@ -205,3 +205,43 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --------------------------------------------------------------------
+# C++ / C build artifacts (appended)
+# --------------------------------------------------------------------
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Static and shared libraries
+*.a
+*.lib
+*.la
+*.lo
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug and profiling files
+*.dSYM/
+*.gcno
+*.gcda
+*.gcov
+
+# Build directories (if you ever use them inside the repo)
+[Cc]MakeCache.txt
+[Cc]MakeFiles/
+cmake-build-*/
+build/
