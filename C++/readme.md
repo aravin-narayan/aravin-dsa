@@ -1,1 +1,2 @@
-This folder C++ would contain all C++ projects in the spacce of data structures and algorithms.
+# aravin-dsa C++
+The C++ folder would contain all C++ projects within the  data structures and algorithms parent reporsitory
